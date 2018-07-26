@@ -1,0 +1,15 @@
+C:\Users\alumno\source\repos\Cine\Testcine\bin\Debug\Testcine.exe.config
+C:\Users\alumno\source\repos\Cine\Testcine\bin\Debug\Testcine.exe
+C:\Users\alumno\source\repos\Cine\Testcine\bin\Debug\Testcine.pdb
+C:\Users\alumno\source\repos\Cine\Testcine\bin\Debug\Testcine.xml
+C:\Users\alumno\source\repos\Cine\Testcine\bin\Debug\Entidades.dll
+C:\Users\alumno\source\repos\Cine\Testcine\bin\Debug\Entidades.pdb
+C:\Users\alumno\source\repos\Cine\Testcine\bin\Debug\Entidades.xml
+C:\Users\alumno\source\repos\Cine\Testcine\obj\Debug\Testcine.vbprojAssemblyReference.cache
+C:\Users\alumno\source\repos\Cine\Testcine\obj\Debug\Testcine.Resources.resources
+C:\Users\alumno\source\repos\Cine\Testcine\obj\Debug\Testcine.vbproj.GenerateResource.cache
+C:\Users\alumno\source\repos\Cine\Testcine\obj\Debug\Testcine.vbproj.CoreCompileInputs.cache
+C:\Users\alumno\source\repos\Cine\Testcine\obj\Debug\Testcine.vbproj.CopyComplete
+C:\Users\alumno\source\repos\Cine\Testcine\obj\Debug\Testcine.exe
+C:\Users\alumno\source\repos\Cine\Testcine\obj\Debug\Testcine.xml
+C:\Users\alumno\source\repos\Cine\Testcine\obj\Debug\Testcine.pdb
